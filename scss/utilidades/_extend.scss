@@ -1,0 +1,9 @@
+/* MEDIA QUERIES 992PX */
+@media screen and (min-width:992px){
+    %boton{
+        border: 1px solid $color-text;
+        background-color: $color-bg-secundario;
+        color: $color-text;
+        box-shadow: $box-shadow;
+    }
+}
